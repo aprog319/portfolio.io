@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family:'Sacramento', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1000px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+header {
+  width:100%;
+  height:65px;
+  background-color: white;
+}
+
+header p{
+  float:left;
+  margin-top:30px;
+}
+
+header a{
+  float:right;
+  padding:30px 15px;
+}
+
+.top {
+  width:100%;
+  height:500px;
+  text-align: center;
+}
+
+.portfolio{
+  letter-spacing: 3px;
+  padding:100px 0;
+}
+
+.portfolio img{
+  border-radius: 190px;
+  width:100px;
+  height:100px;
+}
+
+.middle {
+  width:100%;
+  height:600px;
+  padding-bottom:30px;
+  background-color:white;
+  text-align:center;
+}
+
+.sites {
+  width:25%;
+  float:left;
+}
+
+.site img{
+  padding-top:200px;
+  width:200px;
+  height:150px;
+}
+
+.bottom {
+  width:100%;
+  height:400px;
+  padding-bottom:30px;
+  background-color:white;
+  font-family:serif;
+}
+
+.profile p{
+  padding:10px 0;
+}
